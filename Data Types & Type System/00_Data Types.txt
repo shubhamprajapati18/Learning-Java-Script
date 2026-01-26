@@ -1,0 +1,11 @@
+Data Types: 
+
+/* 
+Primitives -> aisi saari values jinko copy karne par tumhe ek real copy milti hai.
+ex: number, string, boolean, null, undefined, symbol, bigint
+
+Reference types -> aisi saari values jinko copy karne par tumhe ek reference milta hai.
+ex: {objects}, [arrays], (functions)
+*/
+
+// why       typeof Nan === 'number' -> true          ???

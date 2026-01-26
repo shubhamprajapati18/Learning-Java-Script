@@ -1,0 +1,1 @@
+// Type Coercion -> automatic or implicit conversion hoti hai jisme JavaScript ek data type ko dusre data type me convert kar deta hai jab ek operation perform kiya jata hai jisme mismatched types involved hote hain
